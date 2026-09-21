@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mounish2311/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Mounish2311/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Mounish2311/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mounish2311/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Mounish2311/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Mounish2311/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mounish2311/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Mounish2311/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Number Theory
 |  |
@@ -43,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Mounish2311/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mounish2311/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mounish2311/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mounish2311/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mounish2311/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mounish2311/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mounish2311/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -61,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Mounish2311/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mounish2311/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
