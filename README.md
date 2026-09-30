@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Mounish2311/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Mounish2311/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mounish2311/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Mounish2311/Leetcode/tree/master/0258-add-digits) |
