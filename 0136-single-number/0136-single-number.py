@@ -1,13 +1,13 @@
 class Solution:
     def singleNumber(self, nums: list[int]) -> int:
-        seen=set()
+        freq={}
 
         for num in nums:
-            if num in seen:
-                seen.remove(num)
-            else:
-                seen.add(num)
+            freq[num]=freq.get(num,0)+1
+        for num in freq:
+            if freq[num]==1:
+                return num
+                break
 
-        return seen.pop()
 
             
