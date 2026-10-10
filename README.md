@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mounish2311/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mounish2311/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Mounish2311/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Mounish2311/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mounish2311/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Mounish2311/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mounish2311/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mounish2311/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Mounish2311/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Mounish2311/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Mounish2311/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mounish2311/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mounish2311/Leetcode/tree/master/0412-fizz-buzz) |
 ## String
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Mounish2311/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mounish2311/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Mounish2311/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mounish2311/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mounish2311/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Mounish2311/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mounish2311/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mounish2311/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Mounish2311/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Mounish2311/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mounish2311/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mounish2311/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mounish2311/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mounish2311/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mounish2311/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mounish2311/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Mounish2311/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mounish2311/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mounish2311/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mounish2311/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -234,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mounish2311/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Mounish2311/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
