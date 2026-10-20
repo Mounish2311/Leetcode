@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mounish2311/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mounish2311/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mounish2311/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/Mounish2311/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mounish2311/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mounish2311/Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Mounish2311/Leetcode/tree/master/0709-to-lower-case) |
