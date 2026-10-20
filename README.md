@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mounish2311/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mounish2311/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mounish2311/Leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Mounish2311/Leetcode/tree/master/0441-arranging-coins) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mounish2311/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Mounish2311/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mounish2311/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Mounish2311/Leetcode/tree/master/0441-arranging-coins) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mounish2311/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Number Theory
 |  |
