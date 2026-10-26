@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Mounish2311/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Mounish2311/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mounish2311/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Mounish2311/Leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/Mounish2311/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Mounish2311/Leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Mounish2311/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mounish2311/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mounish2311/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mounish2311/Leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Mounish2311/Leetcode/tree/master/0506-relative-ranks) |
 | [0881-boats-to-save-people](https://github.com/Mounish2311/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mounish2311/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mounish2311/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Mounish2311/Leetcode/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
