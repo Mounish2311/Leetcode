@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Mounish2311/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mounish2311/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Mounish2311/Leetcode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/Mounish2311/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Mounish2311/Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Mounish2311/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Mounish2311/Leetcode/tree/master/0771-jewels-and-stones) |
