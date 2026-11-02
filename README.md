@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Mounish2311/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Mounish2311/Leetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/Mounish2311/Leetcode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/Mounish2311/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mounish2311/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Mounish2311/Leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Mounish2311/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Mounish2311/Leetcode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/Mounish2311/Leetcode/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Mounish2311/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
