@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Mounish2311/Leetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/Mounish2311/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Mounish2311/Leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mounish2311/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mounish2311/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Mounish2311/Leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Mounish2311/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Mounish2311/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Mounish2311/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Mounish2311/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mounish2311/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Mounish2311/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mounish2311/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Mounish2311/Leetcode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mounish2311/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Mounish2311/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mounish2311/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
