@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Mounish2311/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Mounish2311/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mounish2311/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Mounish2311/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Mounish2311/Leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Mounish2311/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/Mounish2311/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Mounish2311/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Mounish2311/Leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/Mounish2311/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Mounish2311/Leetcode/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mounish2311/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Mounish2311/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Mounish2311/Leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
